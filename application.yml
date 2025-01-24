@@ -1,3 +1,20 @@
 app-set:
   categories:
     - 17010
+
+channels:
+  settings:
+    bots-channels-map:
+      KufarSpy:
+        - -1002270323996
+        - -1002499186724
+        - -1002367745711
+        - -1002350825182
+      kufar-assistant:
+        - -1002385506241
+
+publish:
+  delays:
+    channelsDelay:
+      -1002367745711: 0
+      -1002385506241: 0 
