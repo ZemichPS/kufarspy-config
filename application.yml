@@ -16,5 +16,5 @@ channels:
 publish:
   delays:
     channelsDelay:
-      -1002367745711: 10
+      -1002367745711: 8
       -1002385506241: 0 
