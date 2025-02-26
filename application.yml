@@ -3,6 +3,8 @@ app-set:
     - 17010
 
 channels:
+  iphone-salles
+    enabled: true
   settings:
     bots-channels-map:
       KufarSpy:
