@@ -14,6 +14,7 @@ channels:
         - -1002350825182
       kufar-assistant:
         - -1002385506241
+        - -1002312425178
 
 publish:
   delays:
