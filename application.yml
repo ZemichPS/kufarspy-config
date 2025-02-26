@@ -3,7 +3,7 @@ app-set:
     - 17010
 
 channels:
-  iphone-salles
+  iphone-sales:
     enabled: true
   settings:
     bots-channels-map:
@@ -20,4 +20,4 @@ publish:
   delays:
     channelsDelay:
       -1002367745711: 5
-      -1002385506241: 0 
+      -1002385506241: 0
