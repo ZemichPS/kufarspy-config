@@ -7,6 +7,8 @@ channels:
     enabled: true
   top-phone-offers:
     enabled: true
+  smartphones-for-spare-parts:
+    enabled: true
   settings:
     bots-channels-map:
       KufarSpy:
