@@ -5,16 +5,14 @@ app-set:
 channels:
   iphone-sales:
     enabled: true
+  top-phone-offers:
+    enabled: true
   settings:
     bots-channels-map:
       KufarSpy:
-        - -1002270323996
-        - -1002499186724
-        - -1002367745711
-        - -1002350825182
-      kufar-assistant:
-        - -1002385506241
         - -1002312425178
+        - -1002258198884
+      kufar-assistant:
 
 publish:
   delays:
