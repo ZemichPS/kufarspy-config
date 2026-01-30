@@ -3,12 +3,13 @@ app-set:
     - 17010
 
 channels:
-  iphone-sales:
-    enabled: true
-  top-phone-offers:
-    enabled: true
-  smartphones-for-spare-parts:
-    enabled: true
+  list:
+    iphone-sales:
+      enabled: true
+    top-phone-offers:
+      enabled: true
+    smartphones-for-spare-parts:
+      enabled: true
   settings:
     bots-channels-map:
       KufarSpy:
