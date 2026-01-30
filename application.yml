@@ -8,10 +8,6 @@ bots:
         - -1002312425178
 channels:
   list:
-    iphone-sales:
-      enabled: true
-    top-phone-offers:
-      enabled: true
     smartphones-for-spare-parts:
       enabled: true
   settings:
