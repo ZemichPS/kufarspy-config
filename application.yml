@@ -5,7 +5,7 @@ app-set:
 bots:
   associations:
       KufarSpy:
-        - -1002312425178
+        - -1003858197006
 channels:
   list:
     smartphones-for-spare-parts:
@@ -13,5 +13,5 @@ channels:
   settings:
     publish:
       delays:
-        -1002385506241: 0
+        -1003858197006: 0
   
