@@ -14,10 +14,6 @@ channels:
     bots-channels-map:
       KufarSpy:
         - -1002312425178
-        - -1002258198884
-      kufar-assistant:
-        - -1002242764864
-
 publish:
   delays:
     channelsDelay:
