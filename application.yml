@@ -14,4 +14,7 @@ channels:
     publish:
       delays:
         -1003858197006: 0
+
+test:
+  property1: okay
   
