@@ -10,6 +10,8 @@ channels:
   list:
     smartphones-for-spare-parts:
       enabled: true
+    test-channel:
+      enabled: true
   settings:
     publish:
       delays:
