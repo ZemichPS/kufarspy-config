@@ -11,7 +11,7 @@ channels:
     smartphones-for-spare-parts:
       enabled: true
     test-channel:
-      enabled: true
+      enabled: false
   settings:
     publish:
       delays:
