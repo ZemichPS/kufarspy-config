@@ -22,5 +22,5 @@ test:
   property1: okay
 
 price-analyzing:
-  min-array-prices: 10
+  min-array-prices: 12
   
