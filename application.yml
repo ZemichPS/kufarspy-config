@@ -20,4 +20,7 @@ channels:
 
 test:
   property1: okay
+
+price-analyzing:
+  min-array-prices: 10
   
