@@ -10,6 +10,8 @@ channels:
   list:
     smartphones-for-spare-parts:
       enabled: true
+    iphone-from-minsk:
+      enabled: true
     test-channel:
       enabled: false
   settings:
