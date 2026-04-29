@@ -6,11 +6,12 @@ bots:
   associations:
       KufarSpy:
         - -1003858197006
+        - -1003911394309
 channels:
   list:
     smartphones-for-spare-parts:
       enabled: true
-    iphone-from-minsk:
+    iphones-from-minsk:
       enabled: true
     test-channel:
       enabled: false
@@ -18,7 +19,7 @@ channels:
     publish:
       delays:
         -1003858197006: 0
-        -1003230333655: 0
+        -1003911394309: 0
 
 test:
   property1: okay
