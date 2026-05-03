@@ -8,11 +8,14 @@ bots:
         - -1003858197006
         - -1003911394309
         - -1003763147446
+        - -1003893484434
 channels:
   list:
     smartphones-for-spare-parts:
       enabled: true
     iphones-from-minsk:
+      enabled: true
+    smartphones-from-gomel:
       enabled: true
     iphones-from-belarus-demo:
       enabled: true
@@ -24,6 +27,7 @@ channels:
         -1003858197006: 0
         -1003911394309: 0
         -1003763147446: 0
+        -1003893484434: 0
 
 test:
   property1: okay
